@@ -1,4 +1,4 @@
-# News App UI Using Flutter - Marian Dumtiru & Popa Daniel
+# News App UI Using - Marian Dumtiru & Popa Daniel
 
 Hello everyone 👋
 
